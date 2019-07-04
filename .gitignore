@@ -146,4 +146,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# python packages
+packages/
 
+# intellij
+*.iml
+
+# zip
+*.zip
